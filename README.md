@@ -4,7 +4,7 @@
 
 # Dibawah Ini Cara Pakainya
 
-````apt update && apt upgrade -y````
+````apt update && apt upgrade -y
 
 ```apt install git -y```
 
