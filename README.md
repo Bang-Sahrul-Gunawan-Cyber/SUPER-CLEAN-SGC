@@ -18,3 +18,4 @@
 # ada pilihan (y/n)
 
 # Pilih Y lalu Enter Beres
+<a  href="https://armanbasir.blogspot.co.id/p/check-your-ip-address.html"><img  src="http://www.wieistmeineip.de/ip-address/" border="0" width="125"  height="125" alt="IP" /></a>
